@@ -8,6 +8,5 @@
 💪 Now I am finishing my studies at BSUIR.  
 👨‍💻 Find out more about me on my CV.   
 📩 Contact me by email rodion.vinnichuk@gmail.com  
-Strong knowledge of: Unity 2D/3D, C#
-Basic knowledge of: JavaScript, PHP
+
 
