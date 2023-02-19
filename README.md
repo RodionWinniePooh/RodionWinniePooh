@@ -1,8 +1,4 @@
 ### Hi there 👋  
-CV https://github.com/RodionWinniePooh/CV.git
-https://github.com/RodionWinniePooh/CV/blob/main/Resume%20Unity%20Developer%20Vinnichuk%20Rodion.pdf
-
-
 
 
 👨‍ I'm a Unity Developer, actively looking for a job.   
